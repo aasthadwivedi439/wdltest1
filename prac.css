@@ -1,0 +1,35 @@
+body{
+	
+}
+
+button{
+	background-color:red;
+	color:white;
+	padding:5px;
+	margin:10px;
+	
+}
+
+.test{
+	float:left;
+	height:550px;
+	width:450px;
+	background-color:orange;
+
+}
+
+.side {
+	margin-left:50px;
+	height:550px;
+	width:400px;
+	display:table;
+	float:left;
+	background-color:lightgreen;
+
+	
+}
+
+.i{
+	background-color:red;
+	margin-left:50px;
+}
